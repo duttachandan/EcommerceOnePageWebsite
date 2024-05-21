@@ -15,7 +15,7 @@ root.render(
     <Provider store = {store}>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Layout />}>
+          <Route path="/EcommerceOnePageWebsite/" element={<Layout />}>
             <Route index element={<App />} />
             <Route path="/appInfo" element={<Info />} />
           </Route>

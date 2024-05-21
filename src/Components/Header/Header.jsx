@@ -12,12 +12,12 @@ function Header() {
             gap-10 justify-end items-center">
                 <NavLink
                     className="text-lg text-black  hover:text-red-500"
-                    to="/">
+                    to="/EcommerceOnePageWebsite/">
                     Home
                 </NavLink>
                 <NavLink
                     className="text-lg text-black  hover:text-red-500"
-                    to="/appInfo">
+                    to="/EcommerceOnePageWebsite/appInfo">
                     Info.
                 </NavLink>
                 <button
